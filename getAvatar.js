@@ -10,9 +10,9 @@ const avatar = async (user, pass) => {
             '--no-sandbox',
             '--disable-setuid-sandbox',
         ], userDataDir: './myUserDataDir',
+        headless: false,
         defaultViewport: { width: 1400, height: 800, deviceScaleFactor: 1 }
     });
-
     const page = await browser.newPage();
 
     await page.goto('https://www.facebook.com/');
