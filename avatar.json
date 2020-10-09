@@ -1,0 +1,264 @@
+{
+  "identifier": "myprojectstickers",
+  "name": "MyProject Stickers",
+  "publisher": "John Doe",
+  "trayImageFileName": "tray_icon.png",
+  "publisherEmail": "contact@myproject.com",
+  "publisherWebsite": "https://myproject.com",
+  "privacyPolicyWebsite": "https://myproject.com/legal",
+  "licenseAgreementWebsite": "https://myproject.com/license",
+  "stickers": [
+    {
+      "fileName": "https://scontent-gig2-1.xx.fbcdn.net/v/t39.1997-6/p100x100/120643490_667747873846384_5023700154487122281_n.png?_nc_cat=108&_nc_sid=ac3552&_nc_ohc=5xuEnpHSnJwAX8CFc8q&_nc_ht=scontent-gig2-1.xx&oh=ebd41ea98bea685d87dd0af51cfb3366&oe=5FA73E55",
+      "emojis": [
+        "✌️"
+      ]
+    },
+    {
+      "fileName": "https://scontent-gig2-1.xx.fbcdn.net/v/t39.1997-6/p100x100/120667482_339029917331976_654178849159013965_n.png?_nc_cat=110&_nc_sid=ac3552&_nc_ohc=NIAhw21or-4AX-ALCHa&_nc_ht=scontent-gig2-1.xx&oh=8f145bb2f3cbaff2661826b05e301286&oe=5FA5476D",
+      "emojis": [
+        "✌️"
+      ]
+    },
+    {
+      "fileName": "https://scontent-gig2-1.xx.fbcdn.net/v/t39.1997-6/p100x100/120690047_326861325262080_3035731477479865568_n.png?_nc_cat=101&_nc_sid=ac3552&_nc_ohc=MA-BY9Bs5d0AX_jK09e&_nc_ht=scontent-gig2-1.xx&oh=e18726721603238964ac4d9b363abb44&oe=5FA6CD80",
+      "emojis": [
+        "✌️"
+      ]
+    },
+    {
+      "fileName": "https://scontent-gig2-1.xx.fbcdn.net/v/t39.1997-6/p100x100/120540191_665023827472242_6871002225977828591_n.png?_nc_cat=105&_nc_sid=ac3552&_nc_ohc=PTD9MIlX1TwAX_R3Tuv&_nc_ht=scontent-gig2-1.xx&oh=fb561c0ac7e7cf0453c3155b6a2f224b&oe=5FA498D7",
+      "emojis": [
+        "✌️"
+      ]
+    },
+    {
+      "fileName": "https://scontent-gig2-1.xx.fbcdn.net/v/t39.1997-6/p100x100/120672252_367556734625693_8151270087888658822_n.png?_nc_cat=108&_nc_sid=ac3552&_nc_ohc=sv8POAxUxVMAX_DcTLu&_nc_oc=AQlmYx-swYYf50s54OUVBSt7iSRyrU7AcGJ8idcsvowI0UJdxEzVeRBK3QNxj-Vhn98&_nc_ht=scontent-gig2-1.xx&oh=4b0043240508c8b742694cac3fb0697c&oe=5FA5F3A3",
+      "emojis": [
+        "✌️"
+      ]
+    },
+    {
+      "fileName": "https://scontent-gig2-1.xx.fbcdn.net/v/t39.1997-6/p100x100/120683394_340935937175495_4171012990309559738_n.png?_nc_cat=108&_nc_sid=ac3552&_nc_ohc=YMGKjoQBgMsAX8FpQDy&_nc_ht=scontent-gig2-1.xx&oh=7822804bc83862b485d3cc50dbb30c03&oe=5FA44CD5",
+      "emojis": [
+        "✌️"
+      ]
+    },
+    {
+      "fileName": "https://scontent-gig2-1.xx.fbcdn.net/v/t39.1997-6/p100x100/120660007_878712292662006_4144352868133581481_n.png?_nc_cat=109&_nc_sid=ac3552&_nc_ohc=M6tYc9iuhuwAX9OkVlx&_nc_ht=scontent-gig2-1.xx&oh=a0ee1d7ccb36ec61350715e14b8308c6&oe=5FA4BEDB",
+      "emojis": [
+        "✌️"
+      ]
+    },
+    {
+      "fileName": "https://scontent-gig2-1.xx.fbcdn.net/v/t39.1997-6/p100x100/120636968_2749003542014542_1463727733713955618_n.png?_nc_cat=110&_nc_sid=ac3552&_nc_ohc=kej8AXeLKcYAX-1SJ9l&_nc_ht=scontent-gig2-1.xx&oh=85dc0eb17a97f9e1d27a12f471993955&oe=5FA42673",
+      "emojis": [
+        "✌️"
+      ]
+    },
+    {
+      "fileName": "https://scontent-gig2-1.xx.fbcdn.net/v/t39.1997-6/p100x100/120664827_673410726932163_6753341478407302803_n.png?_nc_cat=109&_nc_sid=ac3552&_nc_ohc=54QsjJT2iCsAX_VKU5X&_nc_ht=scontent-gig2-1.xx&oh=ebaf9eff608a695a03c1ec696954f56b&oe=5FA4FFA2",
+      "emojis": [
+        "✌️"
+      ]
+    },
+    {
+      "fileName": "https://scontent-gig2-1.xx.fbcdn.net/v/t39.1997-6/p100x100/120661221_353297262768817_6221047971839375255_n.png?_nc_cat=100&_nc_sid=ac3552&_nc_ohc=Dc70YoNymsAAX_hUqBh&_nc_ht=scontent-gig2-1.xx&oh=a861ea1fe5987bf4359995048ca3cdfd&oe=5FA6B58D",
+      "emojis": [
+        "✌️"
+      ]
+    },
+    {
+      "fileName": "https://scontent-gig2-1.xx.fbcdn.net/v/t39.1997-6/p100x100/120658936_964351250727149_1718773958268092806_n.png?_nc_cat=107&_nc_sid=ac3552&_nc_ohc=Yd6caOEBCGEAX-Q0u_l&_nc_ht=scontent-gig2-1.xx&oh=66fcf7a624d714a13816a8c16f21465a&oe=5FA6E3AE",
+      "emojis": [
+        "✌️"
+      ]
+    },
+    {
+      "fileName": "https://scontent-gig2-1.xx.fbcdn.net/v/t39.1997-6/p100x100/120680727_750935645636198_6529156460129280596_n.png?_nc_cat=102&_nc_sid=ac3552&_nc_ohc=pVTYwQTZw10AX-qTa-i&_nc_ht=scontent-gig2-1.xx&oh=cbeb8405acbe09001787e493e77f558b&oe=5FA505F3",
+      "emojis": [
+        "✌️"
+      ]
+    },
+    {
+      "fileName": "https://scontent-gig2-1.xx.fbcdn.net/v/t39.1997-6/p100x100/120690913_1557617784446540_2622844654963423567_n.png?_nc_cat=103&_nc_sid=ac3552&_nc_ohc=G2LokWrzE1kAX_pU8Mv&_nc_oc=AQmASAO6jSMJEMWk6tol4v2DM8Fp8ZOqv-7D2_lOti5AXA5u9SVq4-INh-xgfevvS18&_nc_ht=scontent-gig2-1.xx&oh=34b60d2e202eac245eb0f71555a4d437&oe=5FA3D6BD",
+      "emojis": [
+        "✌️"
+      ]
+    },
+    {
+      "fileName": "https://scontent-gig2-1.xx.fbcdn.net/v/t39.1997-6/p100x100/120662996_3343513072391535_5946368109272366302_n.png?_nc_cat=107&_nc_sid=ac3552&_nc_ohc=J603w2zGrVMAX_X1mG2&_nc_oc=AQkN95erywtKnBaT20WpDL-Vxx9l4waUDAy5nbzFgopxoQHQixVAeL9V-Mq8G39eJKE&_nc_ht=scontent-gig2-1.xx&oh=59144a0aa9c4a9011444cca8e7ac3caa&oe=5FA72AFC",
+      "emojis": [
+        "✌️"
+      ]
+    },
+    {
+      "fileName": "https://scontent-gig2-1.xx.fbcdn.net/v/t39.1997-6/p100x100/120672832_383409355990779_2965725418187427576_n.png?_nc_cat=109&_nc_sid=ac3552&_nc_ohc=9cxZWuOgQ_sAX9rPOxa&_nc_ht=scontent-gig2-1.xx&oh=208db047dda8ee35ce61cb1c7ff8c1fa&oe=5FA5B782",
+      "emojis": [
+        "✌️"
+      ]
+    },
+    {
+      "fileName": "https://scontent-gig2-1.xx.fbcdn.net/v/t39.1997-6/p100x100/120681926_342347380325126_1221773897836159262_n.png?_nc_cat=105&_nc_sid=ac3552&_nc_ohc=sXV6jxG4PxkAX8gy4dT&_nc_oc=AQkBYfJBtLIMAELOvx7exlTslzyx4k2-su0nyYdxYUb1ppMIzfCeZsA5cv9cnI6Se6s&_nc_ht=scontent-gig2-1.xx&oh=011695d32fa20b38f4a3d917d4808b69&oe=5FA65777",
+      "emojis": [
+        "✌️"
+      ]
+    },
+    {
+      "fileName": "https://scontent-gig2-1.xx.fbcdn.net/v/t39.1997-6/p100x100/120652912_1048908432230192_8335887767018552836_n.png?_nc_cat=107&_nc_sid=ac3552&_nc_ohc=-W22qiFu1ngAX_FA25r&_nc_ht=scontent-gig2-1.xx&oh=81b827db45f0fd187060d4cc11ae8d29&oe=5FA6D52B",
+      "emojis": [
+        "✌️"
+      ]
+    },
+    {
+      "fileName": "https://scontent-gig2-1.xx.fbcdn.net/v/t39.1997-6/p100x100/120655915_3432676730145134_2216956365808263290_n.png?_nc_cat=106&_nc_sid=ac3552&_nc_ohc=LGKMwf4cxlAAX9XzTah&_nc_ht=scontent-gig2-1.xx&oh=4fa13d1ca56dc5f88193888d0ccf663f&oe=5FA758D2",
+      "emojis": [
+        "✌️"
+      ]
+    },
+    {
+      "fileName": "https://scontent-gig2-1.xx.fbcdn.net/v/t39.1997-6/p100x100/120668090_2667224206863058_4765725553429111309_n.png?_nc_cat=105&_nc_sid=ac3552&_nc_ohc=MRY3tmsjIjgAX8qwr8Z&_nc_ht=scontent-gig2-1.xx&oh=9d00b015065b53893d8ed0b4d0725e1b&oe=5FA4EBE8",
+      "emojis": [
+        "✌️"
+      ]
+    },
+    {
+      "fileName": "https://scontent-gig2-1.xx.fbcdn.net/v/t39.1997-6/p100x100/120657111_635556093773569_9156779810951147381_n.png?_nc_cat=108&_nc_sid=ac3552&_nc_ohc=yMNXZWqNBd4AX8zVS6E&_nc_ht=scontent-gig2-1.xx&oh=400759abbe2eb84180637a7749cc8e38&oe=5FA69628",
+      "emojis": [
+        "✌️"
+      ]
+    },
+    {
+      "fileName": "https://scontent-gig2-1.xx.fbcdn.net/v/t39.1997-6/p100x100/120656040_2686037504996019_5263992265781922995_n.png?_nc_cat=107&_nc_sid=ac3552&_nc_ohc=owS5qVHIiWMAX-zG_X5&_nc_ht=scontent-gig2-1.xx&oh=c7b9049321310f326f409c837cbe99df&oe=5FA38D9B",
+      "emojis": [
+        "✌️"
+      ]
+    },
+    {
+      "fileName": "https://scontent-gig2-1.xx.fbcdn.net/v/t39.1997-6/p100x100/120667426_635854143719741_9203708021623380822_n.png?_nc_cat=106&_nc_sid=ac3552&_nc_ohc=sbuHrgYUieAAX9hC7kR&_nc_ht=scontent-gig2-1.xx&oh=0b4229e9dfde255488bebe8c0082c378&oe=5FA69D80",
+      "emojis": [
+        "✌️"
+      ]
+    },
+    {
+      "fileName": "https://scontent-gig2-1.xx.fbcdn.net/v/t39.1997-6/p100x100/120750548_2738488993137623_8132669849946702782_n.png?_nc_cat=111&_nc_sid=ac3552&_nc_ohc=2Bz0GObv-sgAX_i5gJK&_nc_ht=scontent-gig2-1.xx&oh=6a483ddf3c4a262504f3419377ab4267&oe=5FA3F64C",
+      "emojis": [
+        "✌️"
+      ]
+    },
+    {
+      "fileName": "https://scontent-gig2-1.xx.fbcdn.net/v/t39.1997-6/p100x100/120660714_1355048418034759_5036803347767668959_n.png?_nc_cat=108&_nc_sid=ac3552&_nc_ohc=sAjovfXyTNcAX8u7j47&_nc_ht=scontent-gig2-1.xx&oh=fa3945507f65795ce5cbeae42a617b71&oe=5FA3A8FC",
+      "emojis": [
+        "✌️"
+      ]
+    },
+    {
+      "fileName": "https://scontent-gig2-1.xx.fbcdn.net/v/t39.1997-6/p100x100/114077514_615058369165540_6625910039459659976_n.png?_nc_cat=110&_nc_sid=ac3552&_nc_ohc=jAEkFqJoJSgAX_GjkQc&_nc_ht=scontent-gig2-1.xx&oh=f4634d627b91e5f72fc4083cd87abaf9&oe=5FA3E39A",
+      "emojis": [
+        "✌️"
+      ]
+    },
+    {
+      "fileName": "https://scontent-gig2-1.xx.fbcdn.net/v/t39.1997-6/p100x100/120668721_647554909284169_345567259187245069_n.png?_nc_cat=106&_nc_sid=ac3552&_nc_ohc=BVNxC60UR2AAX-qTBgd&_nc_ht=scontent-gig2-1.xx&oh=13458ead18912d2febd63abfab436ea3&oe=5FA55237",
+      "emojis": [
+        "✌️"
+      ]
+    },
+    {
+      "fileName": "https://scontent-gig2-1.xx.fbcdn.net/v/t39.1997-6/p100x100/120660029_339239260516385_5478449566715894054_n.png?_nc_cat=102&_nc_sid=ac3552&_nc_ohc=9EIFNX1-WY8AX-SNwBo&_nc_ht=scontent-gig2-1.xx&oh=a379676726786502f867315ed9ef210d&oe=5FA47652",
+      "emojis": [
+        "✌️"
+      ]
+    },
+    {
+      "fileName": "https://scontent-gig2-1.xx.fbcdn.net/v/t39.1997-6/p100x100/120681768_802806553817043_1069521237071125927_n.png?_nc_cat=106&_nc_sid=ac3552&_nc_ohc=BYDVwjfMX20AX8gNBb3&_nc_ht=scontent-gig2-1.xx&oh=e977b7af4e316bea198bb3462b8046f8&oe=5FA74717",
+      "emojis": [
+        "✌️"
+      ]
+    },
+    {
+      "fileName": "https://scontent-gig2-1.xx.fbcdn.net/v/t39.1997-6/p100x100/120664224_672942743331051_3552687275034888270_n.png?_nc_cat=102&_nc_sid=ac3552&_nc_ohc=jdQ9y2Iww8gAX8YqRT2&_nc_ht=scontent-gig2-1.xx&oh=2b1cd91e896720d3c45a3e428d6f8b1e&oe=5FA6210A",
+      "emojis": [
+        "✌️"
+      ]
+    },
+    {
+      "fileName": "https://scontent-gig2-1.xx.fbcdn.net/v/t39.1997-6/p100x100/120658048_380795346279779_4425721054668379753_n.png?_nc_cat=107&_nc_sid=ac3552&_nc_ohc=nWYkhm_p38kAX-SJXzo&_nc_ht=scontent-gig2-1.xx&oh=d002da430a5a422d2abb28d0496d79dc&oe=5FA630E6",
+      "emojis": [
+        "✌️"
+      ]
+    },
+    {
+      "fileName": "https://scontent-gig2-1.xx.fbcdn.net/v/t39.1997-6/p100x100/120912416_374831996892217_2071322773132269387_n.png?_nc_cat=111&_nc_sid=ac3552&_nc_ohc=ZWaNC4_mGMYAX-oIBwY&_nc_ht=scontent-gig2-1.xx&oh=4391c67dd10e6eafc7675634ff70e8b1&oe=5FA40141",
+      "emojis": [
+        "✌️"
+      ]
+    },
+    {
+      "fileName": "https://scontent-gig2-1.xx.fbcdn.net/v/t39.1997-6/p100x100/120604231_3377611699013239_4867461731704566992_n.png?_nc_cat=100&_nc_sid=ac3552&_nc_ohc=D9UMTxa8m04AX_ZlS15&_nc_ht=scontent-gig2-1.xx&oh=01c6812040151bc5a448f4e5d622aeef&oe=5FA5F416",
+      "emojis": [
+        "✌️"
+      ]
+    },
+    {
+      "fileName": "https://scontent-gig2-1.xx.fbcdn.net/v/t39.1997-6/p100x100/120661754_664316264275285_3166302133678088216_n.png?_nc_cat=105&_nc_sid=ac3552&_nc_ohc=EIPClptYVWMAX_ADRFw&_nc_ht=scontent-gig2-1.xx&oh=8189598f59b913d23c7a5a2fae7d2a0a&oe=5FA52D99",
+      "emojis": [
+        "✌️"
+      ]
+    },
+    {
+      "fileName": "https://scontent-gig2-1.xx.fbcdn.net/v/t39.1997-6/p100x100/120681760_460603321525323_7559352899217119519_n.png?_nc_cat=101&_nc_sid=ac3552&_nc_ohc=sBdxKU6iHaAAX_LpLXJ&_nc_ht=scontent-gig2-1.xx&oh=75ad04d97e36bc92ce125f59202536e8&oe=5FA6A9A1",
+      "emojis": [
+        "✌️"
+      ]
+    },
+    {
+      "fileName": "https://scontent-gig2-1.xx.fbcdn.net/v/t39.1997-6/p100x100/120668108_337896470812012_5848282945610821292_n.png?_nc_cat=103&_nc_sid=ac3552&_nc_ohc=jCiIJlb2CLMAX-UJQhJ&_nc_ht=scontent-gig2-1.xx&oh=3ed862897470b406e9070b42ce3a90e0&oe=5FA73496",
+      "emojis": [
+        "✌️"
+      ]
+    },
+    {
+      "fileName": "https://scontent-gig2-1.xx.fbcdn.net/v/t39.1997-6/p100x100/120660943_346727186549448_8489949877526538298_n.png?_nc_cat=106&_nc_sid=ac3552&_nc_ohc=4oI7VvZcZkYAX_iQdsO&_nc_ht=scontent-gig2-1.xx&oh=29ff27532726ecb9e882e398d635f808&oe=5FA4D176",
+      "emojis": [
+        "✌️"
+      ]
+    },
+    {
+      "fileName": "https://scontent-gig2-1.xx.fbcdn.net/v/t39.1997-6/p100x100/120662374_263481944887912_8601737741939606041_n.png?_nc_cat=100&_nc_sid=ac3552&_nc_ohc=9hnR4VjxapUAX-kUvAu&_nc_ht=scontent-gig2-1.xx&oh=7b51777e752ecf47a0f19f659e03f9ca&oe=5FA47A34",
+      "emojis": [
+        "✌️"
+      ]
+    },
+    {
+      "fileName": "https://scontent-gig2-1.xx.fbcdn.net/v/t39.1997-6/p100x100/120634356_2822564841310669_6763864696368152343_n.png?_nc_cat=101&_nc_sid=ac3552&_nc_ohc=_g-IY_wZ1B4AX-bcrlU&_nc_ht=scontent-gig2-1.xx&oh=66d9b355bb93da56f8625a3ac8e961b9&oe=5FA67599",
+      "emojis": [
+        "✌️"
+      ]
+    },
+    {
+      "fileName": "https://scontent-gig2-1.xx.fbcdn.net/v/t39.1997-6/p100x100/120663008_2706642236258855_3329410520459546125_n.png?_nc_cat=109&_nc_sid=ac3552&_nc_ohc=KszPp6vNvCQAX-9E2mY&_nc_ht=scontent-gig2-1.xx&oh=febd043fc638c19ffb6c8b7dfeb659ca&oe=5FA685B0",
+      "emojis": [
+        "✌️"
+      ]
+    },
+    {
+      "fileName": "https://scontent-gig2-1.xx.fbcdn.net/v/t39.1997-6/p100x100/120561410_1441289692927007_6831844572044600984_n.png?_nc_cat=109&_nc_sid=ac3552&_nc_ohc=yFu4c4lLKZkAX_S0CMJ&_nc_oc=AQkVMPugpi3LWnCR1kiXQZQf0vDyXa_9vFVvmFs_r7oH_MCiZ8acbr1V6umz9ja5-s0&_nc_ht=scontent-gig2-1.xx&oh=d2889336647dff924379f997e1364984&oe=5FA5CB47",
+      "emojis": [
+        "✌️"
+      ]
+    },
+    {
+      "fileName": "https://scontent-gig2-1.xx.fbcdn.net/v/t39.1997-6/p100x100/120820474_1040800629771770_8822102027061764320_n.png?_nc_cat=104&_nc_sid=ac3552&_nc_ohc=yfYVb92qWCUAX_5s1rV&_nc_ht=scontent-gig2-1.xx&oh=d6bb6618df7397cfa06deb9a85d7e092&oe=5FA3BF3D",
+      "emojis": [
+        "✌️"
+      ]
+    },
+    {
+      "fileName": "https://scontent-gig2-1.xx.fbcdn.net/v/t39.1997-6/p100x100/120660175_621353141887581_8925104240894678616_n.png?_nc_cat=107&_nc_sid=ac3552&_nc_ohc=AnPnnZCLbn4AX9daZWp&_nc_ht=scontent-gig2-1.xx&oh=b6192cb44f5538cff90f6a59f07d1fba&oe=5FA408F5",
+      "emojis": [
+        "✌️"
+      ]
+    }
+  ]
+}
